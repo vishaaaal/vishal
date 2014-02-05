@@ -1,3 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
+.nc{ color:#1FBBA6;
+  font-size:16px !important;
+}
+.cp{
+padding:40px  !important;
+}

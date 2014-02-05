@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>My Site</title>
+    <title>page2</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -12,8 +12,7 @@
 <body>
 	<div class="row>
 	<div class="col-lg-3 col-xs-6 cp">
-	<p> <a href="fj.html">With Windows</a> Azure, you can spin up new Windows Server and Linux virtual machines in minutes and adjust your usage as your needs change. With our pay-as-you-go approach, you only pay for what you use and there are never any penalties for changing your virtual machine configurations. </p>
-	<a href="fj.html" class="button btn btn-info">Link</a>
+	<p>With Windows Azure, you can spin up new Windows Server and Linux virtual machines in minutes and adjust your usage as your needs change. With our pay-as-you-go approach, you only pay for what you use and there are never any penalties for changing your virtual machine configurations. </p>
 	</div>
 	<div class="col-lg-3 col-xs-6 cp">
 	<p> With Windows Azure, you can spin up new Windows Server and Linux virtual machines in minutes and adjust your usage as your needs change. With our pay-as-you-go approach, you only pay for what you use and there are never any penalties for changing your virtual machine configurations.</p>
@@ -23,24 +22,6 @@
 	</div>
 	<div class="col-lg-3 col-xs-6">
 	<p> With Windows Azure, you can spin up new Windows Server and Linux virtual machines in minutes and adjust your usage as your needs change. With our pay-as-you-go approach, you only pay for what you use and there are never any penalties for changing your virtual machine configurations. </p>
-	</div>
-	</div>
-	<div class="row">
-	<div class="co-md-8 col-md-offset-2">
-	<table class="table"> 
-	<tr>
-	<td>col 1</td>
-	<td>col 2</td>
-	<td>col 3</td>
-	</tr>
-	<tr>
-	<td>no</td>
-	<td>name</td>
-	<td>email</td>
-	</tr>
-
-	</table>
-	</div>
 	</div>
     
 <!-- javascript -->
